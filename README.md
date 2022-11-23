@@ -375,9 +375,13 @@ public class DatabaseHelper extends SQLiteOpenHelper {
         app:layout_constraintVertical_bias="0.328" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-## OUTPUT:
+</br>
+</br>
 
-![WhatsApp Image 2022-09-20 at 3 38 23 PM](https://user-images.githubusercontent.com/75235455/191968079-fcd2caae-7dd2-4812-8b9e-88cd87248493.jpeg)
+## OUTPUT:
+![Screenshot 2022-11-23 110244](https://user-images.githubusercontent.com/77089743/203475205-78456ffb-1bf6-4297-b73b-ae1e66a48182.png)
+
+
 
 ### Insert
 ![WhatsApp Image 2022-09-20 at 3 38 24 PM (3)](https://user-images.githubusercontent.com/75235455/191968264-9395a87f-249a-4483-862e-7ebaf02238ee.jpeg)
