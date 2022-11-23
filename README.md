@@ -1,4 +1,5 @@
-### Ex.No: 1                                                                                                                                                           ### Date: 07.09.2022
+### Ex.No: 1                                                                                                                                                        
+### Date: 07.09.2022
                               
 # <p align="center">To create a database table and to display the database table field using SQLite Database in Android Studio.</p>
 
@@ -32,8 +33,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the DatabaseTable using the SQLite”.
-Developed by        : Gowri M
-Registration Number : 212220230019
+Developed by        : P.Suganya
+Registration Number : 212220230049
 */
 ```
 ### MainActivity.java
